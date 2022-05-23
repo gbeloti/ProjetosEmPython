@@ -8,8 +8,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # Configurações
-from_email = 'gbs.testando13@gmail.com'
-senha = 'sagoyui20'
+from_email = 'YOUREMAIL@gmail.com'
+senha = 'YOURPASSWORD'
 data = time.strftime("%d-%m-%Y")
 ano = time.strftime("%Y")
 mes = time.strftime("%m")

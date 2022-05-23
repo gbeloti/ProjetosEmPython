@@ -1,0 +1,1 @@
+emailToReceive@adress.com
